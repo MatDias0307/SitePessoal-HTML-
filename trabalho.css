@@ -1,0 +1,120 @@
+.header {
+    background-color: black;
+    padding: 30px;
+}
+
+
+.header a{
+    color: white;
+}
+
+.perfil img {
+    max-width: 100%;
+    max-width: 320px;
+}
+
+.perfil {
+    margin: 10px auto; 
+    padding: 50px; 
+}
+
+.redes i{
+    margin: 5px;
+}
+
+.fb {
+    color: rgb(42, 42, 226);
+}
+
+.tt {
+    color:rgb(21, 179, 231)
+}
+
+.ig {
+    color: rgb(199, 43, 178);
+}
+
+.projetos{
+    background-color:black;
+    color: white;
+    padding: 50px;
+}
+
+.projetos img {
+    width: 100%;
+}
+
+.dropdown {
+    position: relative;
+    left: 1020px;
+    bottom: 40px;
+}
+
+.experiencia {
+    padding: 50px;
+}
+
+.experiencia img {
+    width: 100%;
+    width: 250px;
+}
+
+.experiencia p{
+    position: relative;
+    top:40px;
+}
+
+.github{
+    background-color:black;
+    color: white;
+    padding: 50px;
+}
+
+.conteudo {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 50px;
+}
+
+.footer img{
+    max-width: 100%;
+    max-width: 200px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.footer p{
+    text-align: center;
+    padding: 80px;
+}
+
+.botao {
+    margin-left: 1000px; 
+} 
+
+h4{
+    padding-bottom: 20px;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+h5{
+    padding-bottom: 20px;
+}
+@media screen and (max-width: 1200px) { 
+    .botao {
+        margin-left: 0; 
+    }
+
+    .experiencia p{
+        position: relative;
+        top: 0;
+    }
+
+}
+
